@@ -7,7 +7,7 @@ import tracemalloc
 
 
 
-#Pulled a copy of EightPuzzla from search.py
+
 class FifteenPuzzle(Problem):
     """ The problem of sliding tiles numbered from 1 to 15 on a 4x4 board, where one of the
     squares is a blank. A state is represented as a tuple of length 16, where  element at
